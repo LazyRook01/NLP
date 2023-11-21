@@ -1,1 +1,2 @@
 https://github.com/bmabey/pyLDAvis
+https://nbviewer.org/github/bmabey/hacker_news_topic_modelling/blob/master/HN%20Topic%20Model%20Talk.ipynb
